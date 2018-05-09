@@ -1,0 +1,12 @@
+{
+  "name": "8499y73m00",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "15.5.3",
+    "react": "15.5.3",
+    "prop-types": "15.5.10"
+  }
+}
